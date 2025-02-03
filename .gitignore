@@ -12,3 +12,4 @@ wheels/
 *.gpkg-shm
 *.gpkg-wal
 *.csv
+*.osm.pbf
